@@ -6,7 +6,7 @@ If you're here to **download H&R Block software already purchased**, you're in t
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href=https://download.gold-desktops.com/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Hrblock Setup</a>
+       <a href=https://download.gold-desktops.com/ rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Hrblock Setup</a>
    </div>
 
 Whether you're using Windows or macOS, following the official setup steps ensures a smooth installation. This guide repeats the essential terms to help you clearly understand how to **download H&R Block software already purchased**, **install H&R Block with activation code**, and avoid common setup pitfalls. Let’s get started.
